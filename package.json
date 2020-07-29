@@ -1,0 +1,15 @@
+{
+  "name": "The Jotaro Bot",
+  "version": "1.2.0",
+  "description": "Help in banking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naman Mathur",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ytdl-core": "^2.1.7"
+  }
+}
